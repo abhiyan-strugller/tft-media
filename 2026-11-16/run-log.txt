@@ -1,1 +1,4 @@
 2026-11-15 21:44 media ok: 2 files sha256-verified
+SHEET_URL=https://raw.githubusercontent.com/abhiyan-strugller/tft-media/main/sheets/2026-11-16-60c79be045.csv
+SHA256=60c79be045b04bce3532e33e016b1e1505188315f3bfb309ec50f85c7ef3f685
+ROWS=2
